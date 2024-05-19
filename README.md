@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I am Shahriar!
 
-<!--
-**shahriar374/shahriar374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Future Software Engineer
+- 🌱 I’m currently pursuing a CS degree
+- 👯 I’m looking to collaborate on Open Source projects
+- 😄 AI & ML Enthusiast
 
-Here are some ideas to get you started:
+#### Languages and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,cpp,latex,spring,nodejs,bootstrap,tailwind,html,css)](https://skillicons.dev)
+
+#### Platforms and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,vim,mysql,mongodb,sqlite,firebase,androidstudio,idea,pycharm)](https://skillicons.dev)
